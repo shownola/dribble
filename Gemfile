@@ -56,6 +56,5 @@ gem 'haml'
 gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
 gem 'paperclip', '~> 4.2.0'
 
-
  
 
