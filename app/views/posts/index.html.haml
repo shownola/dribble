@@ -6,8 +6,11 @@
       .post_content
         .title
           %h2= link_to post.title, post
+          %p
+            = post.comments.count
+            Comments
 
-%hr/
+
     
 = link_to 'Add New Inspiration', new_post_path
 
