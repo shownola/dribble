@@ -54,7 +54,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise', '~> 4.2'
 gem 'haml'
 gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
-gem 'paperclip', '~> 4.2.0'
+gem 'paperclip', '~> 5.2.1'
 
  
 
