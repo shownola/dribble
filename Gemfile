@@ -57,5 +57,6 @@ gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
 gem 'paperclip', '~> 5.2.1'
 gem 'acts_as_votable', '~> 0.10.0'
 
+
  
 
